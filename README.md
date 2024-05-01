@@ -16,9 +16,12 @@
 
 ## 🛠️ 使用教程 | Tutorial
 
-1. 从 [GitHub 发行版][GitHubReleases]、[Gitee 发行版][GiteeReleases]或 [Modrinth][ModrinthReleases] 下载资源包。<br>Download the resource pack from [GitHub Release][GitHubReleases], [Gitee Release][GiteeReleases] or [Modrinth][ModrinthReleases].
-2. 将资源包放入游戏资源包文件夹（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
-3. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
+1. 下载你所需的资源包版本：<br>Download the resource pack version you need:<br>
+|            | [All in One][ProjectAllInOne] | [简体中文][ProjectSChinese] | [繁體中文][ProjectTChinese] |
+| ---------- | ----------------------------- | --------------------------- | --------------------------- |
+| 自定义字体 | ❌                             | ✔️                           | ✔️                           |
+1. 将资源包放入游戏资源包文件夹（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
+2. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
 ## ⚠️ 注意事项 | Warnings
 
@@ -54,6 +57,9 @@
 
 ***
 
+[ProjectSChinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
+[ProjectAllInOne]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all
+[ProjectTChinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese
 [SChinese-for-the-badge]: https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
 [SChinese]: README/README.zh-cn.md
 [TChinese-for-the-badge]: https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
