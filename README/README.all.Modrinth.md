@@ -1,6 +1,6 @@
-<div align="center">
-
 # 《方块前线》模组多语言项目<br>BlockFront Mod Multi-Language Project
+
+<center>
 
 为《Minecraft》模组《方块前线》提供多语言支持<br>Multi-language support for Minecraft mod "BlockFront"
 
@@ -10,7 +10,7 @@
 
 [![简体中文][SChinese-for-the-badge]][SChinese] [![繁體中文][TChinese-for-the-badge]][TChinese] [![British English][BrEnglish-for-the-badge]][BrEnglish]
 
-</div>
+</center>
 
 ***
 
@@ -62,11 +62,11 @@
 
 ## 🤝 开源许可协议 | Licence
 
-<div align="center">
+<center>
 
 除非另有说明，本仓库内容采用<br>Except where otherwise noted, the contents of this repository is licenced under a<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
-</div>
+</center>
 
 ***
 

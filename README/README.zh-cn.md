@@ -16,7 +16,23 @@
 
 ## 🛠️ 使用教程
 
-1. 从 [GitHub 发行版][GitHubReleases]、[Gitee 发行版][GiteeReleases]或 [Modrinth][ModrinthReleases] 下载资源包。
+1. 下载你所需要的版本的资源包：
+
+<table align="center">
+    <tr>
+        <td></td>
+        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">All in One</a></td>
+        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文</a></td>
+        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文</a></td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">自定义字体</td>
+        <td style="text-align:center;">❌</td>
+        <td style="text-align:center;">✔️</td>
+        <td style="text-align:center;">✔️</td>
+    </tr>
+</table>
+
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。
 3. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。
 
@@ -60,9 +76,6 @@
 [TChinese]: README/README.zh-tw.md
 [BrEnglish-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [BrEnglish]: README/README.en-gb.md
-[GitHubReleases]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Resource-Pack/releases
-[GiteeReleases]: https://gitee.com/YoMonNPC/Minecraft-BlockFront-Mod-Resource-Pack/releases
-[ModrinthReleases]: https://modrinth.com/resourcepack/blockfront-mod-resource-pack
 [BFOfficialWebsite]: https://www.blockfrontmc.com
 [BFOfficialDiscord]: https://discord.blockfrontmc.com
 [BFOfficialRules-OfficialWebsite]: https://www.blockfrontmc.com/rules
