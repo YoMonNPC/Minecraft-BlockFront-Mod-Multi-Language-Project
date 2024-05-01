@@ -1,7 +1,7 @@
-
 .assets_helper
 *.bak
 new.json
 old.json
 output
+pack-small.png
 pack-with-version-number.cmd
