@@ -1,22 +1,22 @@
-<div align="center">
+﻿<center>
 
-# BlockFront Mod Multi-Language Project
+# 《方塊前線》模組多語言專案<br>BlockFront Mod Multi-Language Project
 
-Multi-language support for Minecraft mod "BlockFront"
+為《Minecraft》模組《方塊前線》提供多語言支援
 
-If you encounter problems during use, please create an issue
+如果你在使用中遇到問題，請建立 issue
 
-If you would like to contribute translations to this project, please create a push request
+如果你想為此專案提供翻譯，請建立推送請求
 
 [![简体中文][SChinese-for-the-badge]][SChinese] [![繁體中文][TChinese-for-the-badge]][TChinese] [![British English][BrEnglish-for-the-badge]][BrEnglish]
 
-</div>
+</center>
 
 ***
 
-## 🛠️ Tutorial
+## 🛠️ 使用教程
 
-1. Download the version of resource pack you need:
+1. 下載你所需要的版本的資源包：
 
 <table align="center">
     <tr>
@@ -26,48 +26,47 @@ If you would like to contribute translations to this project, please create a pu
         <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文</a></td>
     </tr>
     <tr>
-        <td style="text-align:center;">Custom Font</td>
+        <td style="text-align:center;">自訂字體</td>
         <td style="text-align:center;">❌</td>
         <td style="text-align:center;">✔️</td>
         <td style="text-align:center;">✔️</td>
     </tr>
 </table>
 
-2. Place the resource pack into the game resource pack folder (resourcepacks).
-3. Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
+2. 將資源包放入遊戲資源包資料夾（resourcepacks）。
+3. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。
 
-## ⚠️ Warnings
+## ⚠️ 注意事項
 
-- For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
+- 為正常顯示模組自訂圖示，請將「強制使用 Unicode 字型」設定為「關」。
 
-## 🔗 Related Links
+## 🔗 相關連結
 
-- 🧑‍💻 Mod Developer → BeohMod
+- 🧑‍💻 模組開發 → BeohMod
 
-- 🌐 Mod Official Website → [www.BlockFrontMC.com][BFOfficialWebsite]
+- 🌐 模組官網 → [www.BlockFrontMC.com][BFOfficialWebsite]
 
-- 💬 Official Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
+- 💬 官方 Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
 
-- 📄 Official Rules → [Original Text][BFOfficialRules-OfficialWebsite]
+- 📄 官方規則 → [原文][BFOfficialRules-OfficialWebsite]
 
-- 📄 Mod Introduction → [Mod Release Pages](#-mod-download)
+- 📄 模組介紹 → [模組釋出頁](#-模組釋出頁)
 
-- 🌐 Custom Matchmaking Guide → [Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
+- 🌐 自訂比賽教程 → [官方 Discord 原文][BFCustomMatchmakingGuide-DiscordForum]
 
-## 🔗 Mod Release Pages
+## 🔗 模組釋出頁
 
-1. Modrinth → [Mod Only][BFModrinth] | [Modpack][BFModpackModrinth]
-2. Technic Platform → [Modpack][BFModpackTechnic]
-3. CurseForge → [Mod Only][BFCurseForge] | [Modpack][BFModpackCurseForge]
+1. Modrinth → [僅模組][BFModrinth] | [整合包][BFModpackModrinth]
+2. Technic Platform → [整合包][BFModpackTechnic]
+3. CurseForge → [僅模組][BFCurseForge] | [整合包][BFModpackCurseForge]
 
-## 🤝 Licence
+## 🤝 開源許可協議
 
-<div align="center">
+<center>
 
-Except where otherwise noted, the contents of this repository is licenced under a
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0" width="88" height="31" /></a>
+除非另有說明，本倉庫內容採用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知識共享署名—非商業性使用—相同方式共享 4.0 國際公共許可協議（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
-</div>
+</center>
 
 ***
 
