@@ -1,0 +1,7 @@
+
+.assets_helper
+*.bak
+new.json
+old.json
+output
+pack-with-version-number.cmd

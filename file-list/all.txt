@@ -1,0 +1,10 @@
+assets\bf\font\bold-all.json
+assets\bf\lang\en_us.json
+assets\bf\lang\ja_jp.json
+assets\bf\lang\zh_cn.json
+assets\bf\lang\zh_hk.json
+assets\bf\lang\zh_tw.json
+assets\minecraft\font\default.json
+LICENSE
+pack-all.mcmeta
+pack.png

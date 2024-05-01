@@ -1,0 +1,8 @@
+assets\bf\font\bold-schinese.json
+assets\bf\font\hyliliangheij.ttf
+assets\bf\lang\en_us.json
+assets\bf\lang\zh_cn.json
+assets\minecraft\font\default.json
+LICENSE
+pack-schinese.mcmeta
+pack.png
