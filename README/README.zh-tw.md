@@ -4,9 +4,9 @@
 
 為《Minecraft》模組《方塊前線》提供多語言支援
 
-如果你在使用中遇到問題，請建立 issue
+如果你在使用中遇到問題，請建立 Issue
 
-如果你想為此專案提供翻譯，請建立推送請求
+如果你想為此專案提供翻譯，請建立 Pull Request
 
 [![简体中文][SChinese-for-the-badge]][SChinese] [![繁體中文][TChinese-for-the-badge]][TChinese] [![British English][BrEnglish-for-the-badge]][BrEnglish]
 
@@ -56,9 +56,9 @@
 
 ## 🔗 模組釋出頁
 
-1. Modrinth → [僅模組][BFModrinth] | [整合包][BFModpackModrinth]
-2. Technic Platform → [整合包][BFModpackTechnic]
-3. CurseForge → [僅模組][BFCurseForge] | [整合包][BFModpackCurseForge]
+1. Modrinth → [僅模組][BFModrinth] | [模組包][BFModpackModrinth]
+2. Technic Platform → [模組包][BFModpackTechnic]
+3. CurseForge → [僅模組][BFCurseForge] | [模組包][BFModpackCurseForge]
 
 ## 🤝 開源許可協議
 
