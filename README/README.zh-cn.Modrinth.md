@@ -2,11 +2,11 @@
 
 <center>
 
-为《Minecraft》模组《方块前线》提供多语言支持
+为《Minecraft》模组《方块前线》提供多语言支持<br>Multi-language support for Minecraft mod "BlockFront"
 
-如果你在使用中遇到问题，请创建议题
+如果你在使用中遇到问题，请创建议题<br>If you encounter problems during use, please create an issue
 
-如果你想为此项目提供翻译，请创建推送请求
+如果你想为此项目提供翻译，请创建推送请求<br>If you would like to contribute translations to this project, please create a push request
 
 [![简体中文][SChinese-for-the-badge]][SChinese] [![繁體中文][TChinese-for-the-badge]][TChinese] [![British English][BrEnglish-for-the-badge]][BrEnglish]
 
@@ -14,9 +14,9 @@
 
 ***
 
-## 🛠️ 使用教程
+## 🛠️ 使用教程 | Tutorial
 
-1. 下载你所需要的版本的资源包：
+1. 下载你所需要的版本的资源包：<br>Download the version of resource pack you need:
 
 <table align="center">
     <tr>
@@ -26,45 +26,45 @@
         <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文</a></td>
     </tr>
     <tr>
-        <td style="text-align:center;">自定义字体</td>
+        <td style="text-align:center;">自定义字体<br>Custom Font</td>
         <td style="text-align:center;">❌</td>
         <td style="text-align:center;">✔️</td>
         <td style="text-align:center;">✔️</td>
     </tr>
 </table>
 
-2. 将资源包放入游戏资源包文件夹（resourcepacks）。
-3. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。
+2. 将资源包放入游戏资源包文件夹（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
+3. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
-## ⚠️ 注意事项
+## ⚠️ 注意事项 | Warnings
 
-- 为正常显示模组自定义图标，请将“强制使用 Unicode 字体”设置为“关”。
+- 为正常显示模组自定义图标，请将“强制使用 Unicode 字体”设置为“关”。<br>For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
 
-## 🔗 相关链接
+## 🔗 相关链接 | Related Links
 
-- 🧑‍💻 模组开发 → BeohMod
+- 🧑‍💻 模组开发 | Mod Developer → BeohMod
 
-- 🌐 模组官网 → [www.BlockFrontMC.com][BFOfficialWebsite]
+- 🌐 模组官网 | Mod Official Website → [www.BlockFrontMC.com][BFOfficialWebsite]
 
-- 💬 官方 Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
+- 💬 官方 Discord | Official Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
 
-- 📄 官方规则 → [原文][BFOfficialRules-OfficialWebsite]
+- 📄 官方规则 | Official Rules → [原文 | Original Text][BFOfficialRules-OfficialWebsite]
 
-- 📄 模组介绍 → [模组发布页](#-模组发布页)
+- 📄 模组介绍 | Mod Introduction → [模组发布页 | Mod Release Pages](#-模组发布页--mod-release-pages)
 
-- 🌐 自定义比赛教程 → [官方 Discord 原文][BFCustomMatchmakingGuide-DiscordForum]
+- 🌐 自定义比赛教程 | Custom Matchmaking Guide → [官方 Discord 原文 | Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
 
-## 🔗 模组发布页
+## 🔗 模组发布页 | Mod Release Pages
 
-1. Modrinth → [仅模组][BFModrinth] | [整合包][BFModpackModrinth]
-2. Technic Platform → [整合包][BFModpackTechnic]
-3. CurseForge → [仅模组][BFCurseForge] | [整合包][BFModpackCurseForge]
+1. Modrinth → [仅模组 | Mod Only][BFModrinth] | [整合包 | Modpack][BFModpackModrinth]
+2. Technic Platform → [整合包 | Modpack][BFModpackTechnic]
+3. CurseForge → [仅模组 | Mod Only][BFCurseForge] | [整合包 | Modpack][BFModpackCurseForge]
 
-## 🤝 开源许可协议
+## 🤝 开源许可协议 | Licence
 
 <center>
 
-除非另有说明，本仓库内容采用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
+除非另有说明，本仓库内容采用<br>Except where otherwise noted, the contents of this repository is licenced under a<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
 </center>
 
