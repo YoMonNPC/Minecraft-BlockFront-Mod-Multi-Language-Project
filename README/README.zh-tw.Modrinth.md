@@ -21,9 +21,9 @@
 <table align="center">
     <tr>
         <td></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">All in One</a></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文</a></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">多語言合一<br>All in One</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文<br>Simplified Chinese</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文<br>Traditional Chinese</a></td>
     </tr>
     <tr>
         <td style="text-align:center;">自訂字體<br>Custom Font</td>
@@ -33,12 +33,12 @@
     </tr>
 </table>
 
-2. 將資源包放入遊戲資源包資料夾（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
-3. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
+1. 將資源包放入遊戲資源包資料夾（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
+2. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
 ## ⚠️ 注意事項 | Warnings
 
-- 為正常顯示模組自訂圖示，請將「強制使用 Unicode 字型」設定為「關」。For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
+- 為正常顯示模組自訂圖示，請將「強制使用 Unicode 字型」設定為「關」。<br>For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
 
 ## 🔗 相關連結 | Related Links
 
@@ -48,11 +48,11 @@
 
 - 💬 官方 Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
 
-- 📄 官方規則 → [原文][BFOfficialRules-OfficialWebsite]
+- 📄 官方規則 → [原文 | Original Text][BFOfficialRules-OfficialWebsite]
 
-- 📄 模組介紹 → [模組釋出頁](#-模組釋出頁)
+- 📄 模組介紹 → [模組釋出頁 | Mod Release Pages](#-模組釋出頁--mod-release-pages)
 
-- 🌐 自訂比賽教程 → [官方 Discord 原文][BFCustomMatchmakingGuide-DiscordForum]
+- 🌐 自訂比賽教程 → [官方 Discord 原文 | Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
 
 ## 🔗 模組釋出頁 | Mod Release Pages
 
@@ -64,7 +64,7 @@
 
 <center>
 
-除非另有說明，本倉庫內容採用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知識共享署名—非商業性使用—相同方式共享 4.0 國際公共許可協議（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
+除非另有說明，本倉庫內容採用<br>Except where otherwise noted, the contents of this repository is licenced under a<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知識共享署名—非商業性使用—相同方式共享 4.0 國際公共許可協議（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
 </center>
 
