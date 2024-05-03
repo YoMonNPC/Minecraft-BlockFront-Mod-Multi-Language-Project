@@ -21,12 +21,12 @@
 <table align="center">
     <tr>
         <td></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">All in One</a></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文</a></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">多语言合一<br>All in One</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文<br>Simplified Chinese</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文<br>Traditional Chinese</a></td>
     </tr>
     <tr>
-        <td style="text-align:center;">自定义字体</td>
+        <td style="text-align:center;">自定义字体<br>Custom Font</td>
         <td style="text-align:center;">❌</td>
         <td style="text-align:center;">✔️</td>
         <td style="text-align:center;">✔️</td>

@@ -21,20 +21,20 @@ If you would like to contribute translations to this project, please create a pu
 <table align="center">
     <tr>
         <td></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">All in One</a></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文</a></td>
-        <td><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">All in One<br>多语言合一</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">Simplified Chinese<br>简体中文</a></td>
+        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">Traditional Chinese<br>繁體中文</a></td>
     </tr>
     <tr>
-        <td style="text-align:center;">Custom Font</td>
+        <td style="text-align:center;">自定义字体<br>Custom Font</td>
         <td style="text-align:center;">❌</td>
         <td style="text-align:center;">✔️</td>
         <td style="text-align:center;">✔️</td>
     </tr>
 </table>
 
-2. Place the resource pack into the game resource pack folder (resourcepacks).
-3. Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
+1. Place the resource pack into the game resource pack folder (resourcepacks).
+2. Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
 ## ⚠️ Warnings
 
@@ -50,7 +50,7 @@ If you would like to contribute translations to this project, please create a pu
 
 - 📄 Official Rules → [Original Text][BFOfficialRules-OfficialWebsite]
 
-- 📄 Mod Introduction → [Mod Release Pages](#-mod-download)
+- 📄 Mod Introduction → [Mod Release Pages](#-mod-release-pages)
 
 - 🌐 Custom Matchmaking Guide → [Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
 
