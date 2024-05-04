@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 22,
-        "description": "《方塊前線》模組多語言專案\n版本：19.2 (1.20.4-0.3.3.1a)",
+        "pack_format": 32,
+        "description": "《方塊前線》模組多語言專案\n版本：20.0 (1.20.6-0.4.0.0a)",
         "supported_formats": {
-            "max_inclusive": 22,
-            "min_inclusive": 22
+            "max_inclusive": 32,
+            "min_inclusive": 32
         }
     }
 }
