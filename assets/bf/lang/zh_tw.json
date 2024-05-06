@@ -28,6 +28,7 @@
     "bf.cloud.notification.clan.create.error.already": "你已在一個分隊中！建立新的分隊前請退出當前分隊。",
     "bf.cloud.notification.clan.create.error.exists": "所提供的分隊名稱已存在！請重試。",
     "bf.cloud.notification.clan.create.error.name": "你所提供的分隊名稱無效！介於 %d 至 %d 個字元之間。請重試。",
+    "bf.cloud.notification.clan.create.error.prestige": "你的聲譽必須至少為 1 級才能建立分隊！",
     "bf.cloud.notification.clan.create.error.profanity": "所提供的分隊名稱含有不雅內容且已被報告。請重試。",
     "bf.cloud.notification.clan.create.error.reserved": "所提供的分隊名稱被保留！請重試。",
     "bf.cloud.notification.clan.create.success": "你已成功建立一個分隊！",
@@ -2226,5 +2227,11 @@
     "item.bf.partyhat_pink": "粉隊帽子",
     "item.bf.partyhat_purple": "紫隊帽子",
     "item.bf.partyhat_yellow": "黃隊帽子",
+    "item.bf.prestige_card_1": "一等聲譽卡片",
+    "item.bf.prestige_card_2": "二等聲譽卡片",
+    "item.bf.prestige_card_3": "三等聲譽卡片",
+    "item.bf.prestige_card_4": "四等聲譽卡片",
+    "item.bf.prestige_card_5": "五等聲譽卡片",
+    "item.bf.prestige_card_6": "六等聲譽卡片",
     "item.bf.selection_wand": "選擇棒"
 }
