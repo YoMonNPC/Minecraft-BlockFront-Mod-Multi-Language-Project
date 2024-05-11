@@ -18,20 +18,13 @@
 
 1. 下載你所需要的版本的資源包：
 
-<table align="center">
-    <tr>
-        <td></td>
-        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">多語言合一<br>All in One</a></td>
-        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文<br>Simplified Chinese</a></td>
-        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文<br>Traditional Chinese</a></td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">自訂字體<br>Custom Font</td>
-        <td style="text-align:center;">❌</td>
-        <td style="text-align:center;">✔️</td>
-        <td style="text-align:center;">✔️</td>
-    </tr>
-</table>
+<div align="center">
+
+|                         | [多語言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
+| :---------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| 自訂字形<br>Custom Font |                                                    ❌                                                    |                                                         ✔️                                                          |                                                          ✔️                                                          |
+
+</div>
 
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。
 3. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。

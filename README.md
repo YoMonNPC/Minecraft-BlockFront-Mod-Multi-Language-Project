@@ -18,20 +18,13 @@
 
 1. 下载你所需要的版本的资源包：<br>Download the version of resource pack you need:
 
-<table align="center">
-    <tr>
-        <td></td>
-        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all">多语言合一<br>All in One</a></td>
-        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese">简体中文<br>Simplified Chinese</a></td>
-        <td style="text-align:center;"><a href="https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese">繁體中文<br>Traditional Chinese</a></td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">自定义字体<br>Custom Font</td>
-        <td style="text-align:center;">❌</td>
-        <td style="text-align:center;">✔️</td>
-        <td style="text-align:center;">✔️</td>
-    </tr>
-</table>
+<div align="center">
+
+|                           | [多语言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
+| :-----------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| 自定义字体<br>Custom Font |                                                    ❌                                                    |                                                         ✔️                                                          |                                                          ✔️                                                          |
+
+</div>
 
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
 3. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
