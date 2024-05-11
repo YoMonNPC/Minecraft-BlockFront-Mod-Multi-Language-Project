@@ -16,8 +16,6 @@ If you would like to contribute translations to this project, please create a pu
 
 ## 🛠️ Tutorial
 
-1. Download the version of resource pack you need:
-
 <div align="center">
 
 |                           | [All in One<br>多语言合一](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [Simplified Chinese<br>简体中文](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [Traditional Chinese<br>繁體中文](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
@@ -26,6 +24,7 @@ If you would like to contribute translations to this project, please create a pu
 
 </div>
 
+1. Download the version of resource pack you need.
 2. Place the resource pack into the game resource pack folder (resourcepacks).
 3. Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 

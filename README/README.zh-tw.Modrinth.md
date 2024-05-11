@@ -16,8 +16,6 @@
 
 ## 🛠️ 使用教程 | Tutorial
 
-1. 下載你所需要的版本的資源包：<br>Download the version of resource pack you need:
-
 <center>
 
 |                         | [多語言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
@@ -26,6 +24,7 @@
 
 </center>
 
+1. 下載你所需要的版本的資源包。<br>Download the version of resource pack you need.
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
 3. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
