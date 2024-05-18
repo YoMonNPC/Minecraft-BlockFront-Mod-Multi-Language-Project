@@ -26,7 +26,7 @@
 
 1. 下載你所需要的版本的資源包。<br>Download the version of resource pack you need.
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
-3. 在遊戲中啓用資源包，並確保資源包處於第一優先級（最上方）。<br>Enable resource packs in the game and make sure they are at first priority (topmost).
+3. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
 ## ⚠️ 注意事項 | Warnings
 

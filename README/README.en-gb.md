@@ -26,7 +26,7 @@ If you would like to contribute translations to this project, please create a pu
 
 1. Download the version of resource pack you need.
 2. Place the resource pack into the game resource pack folder (resourcepacks).
-3. Enable resource packs in the game and make sure they are at first priority (topmost).
+3. Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
 ## ⚠️ Warnings
 
