@@ -3,7 +3,9 @@ assets\bf\font\fzzongyib.ttf
 assets\bf\lang\en_us.json
 assets\bf\lang\zh_hk.json
 assets\bf\lang\zh_tw.json
-assets\minecraft\font\default.json
+assets\minecraft\font\space.json
+assets\minecraft\lang\zh_hk.json
+assets\minecraft\lang\zh_tw.json
 LICENSE
 pack-tchinese.mcmeta
 pack.png
