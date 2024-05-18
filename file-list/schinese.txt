@@ -2,7 +2,7 @@ assets\bf\font\bold-schinese.json
 assets\bf\font\hyliliangheij.ttf
 assets\bf\lang\en_us.json
 assets\bf\lang\zh_cn.json
-assets\minecraft\font\space.json
+assets\minecraft\font\default.json
 assets\minecraft\lang\zh_cn.json
 LICENSE
 pack-schinese.mcmeta
