@@ -1,8 +1,9 @@
 .assets_helper
 *.bak
-original_text_missing_translations.json
+changelog-template.md
 new.json
 old.json
+original_text_missing_translations.json
 output
 pack-small.png
 pack-with-version-number.cmd
