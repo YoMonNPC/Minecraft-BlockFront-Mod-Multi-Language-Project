@@ -14,13 +14,13 @@
 
 ***
 
-## 🛠️ 使用教程 | Tutorial
-
 ## ⭐ 功能 | Features
 
 - 为模组提供了 | Provided：
   - 带自定义字体的简体中文（中国大陆）翻译 - **100%**<br>Simplified Chinese (Mainland China) translation with custom fonts - **100%**
 - 修正了原文（美式英语）中的部分拼写、语法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
+
+## 🛠️ 使用教程 | Tutorial
 
 <center>
 
