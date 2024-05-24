@@ -39,17 +39,17 @@
 
 ## 🔗 相關連結 | Related Links
 
-- 🧑‍💻 模組開發 → BeohMod
+- 🧑‍💻 模組開發 | Mod Developer → BeohMod
 
-- 🌐 模組官網 → [www.BlockFrontMC.com][BFOfficialWebsite]
+- 🌐 模組官網 | Mod Official Website → [www.BlockFrontMC.com][BFOfficialWebsite]
 
-- 💬 官方 Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
+- 💬 官方 Discord | Official Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
 
-- 📄 官方規則 → [原文 | Original Text][BFOfficialRules-OfficialWebsite]
+- 📄 官方規則 | Official Rules → [原文 | Original Text][BFOfficialRules-OfficialWebsite]
 
-- 📄 模組介紹 → [模組釋出頁 | Mod Release Pages](#-模組釋出頁--mod-release-pages)
+- 📄 模組介紹 | Mod Introduction → [模組釋出頁 | Mod Release Pages](#-模組釋出頁--mod-release-pages)
 
-- 🌐 自訂比賽教程 → [官方 Discord 原文 | Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
+- 🌐 自訂比賽教程 | Custom Matchmaking Guide → [官方 Discord 原文 | Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
 
 ## 🔗 模組釋出頁 | Mod Release Pages
 
