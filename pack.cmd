@@ -5,7 +5,6 @@ chcp 65001
 del /q "output\BlockFront Mod-Multi Language Project.zip"
 del /q "output\《方块前线》模组多语言项目.zip"
 del /q "output\《方塊前線》模組多語言專案.zip"
-del /q "output\『BlockFront』Mod 多言語プロジェクト.zip"
 
 "7-zip-24.05\7za.exe" a -sccUTF-8 -scsUTF-8 -tzip -y "output\BlockFront Mod-Multi Language Project.zip" @file-list\all.txt
 "7-zip-24.05\7za.exe" rn -sccUTF-8 -scsUTF-8 -tzip -y "output\BlockFront Mod-Multi Language Project.zip" "pack-all.mcmeta" "pack.mcmeta"
