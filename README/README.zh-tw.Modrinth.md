@@ -23,7 +23,7 @@
 
 <center>
 
-| | [多語言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
+| | [多語言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
 | :-: | :-: | :-: | :-: |
 | 自訂字型<br>Custom Font | ❌ | ✔️ | ✔️ |
 

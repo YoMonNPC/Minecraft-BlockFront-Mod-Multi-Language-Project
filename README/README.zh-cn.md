@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| | [多语言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
+| | [多语言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
 | :-: | :-: | :-: | :-: |
 | 自定义字体<br>Custom Font | ❌ | ✔️ | ✔️ |
 
@@ -41,6 +41,7 @@
 ## ⚠️ 注意事项
 
 - 为正常显示模组自定义图标，请将“强制使用 Unicode 字体”设置为“关”。
+- PCL II 启动器为修复编码问题，使用了 [Java Launch Wrapper][JavaLaunchWrapper]，导致无法通过反作弊检测。请换用其它启动器。
 
 ## 🔗 相关链接
 
@@ -83,6 +84,7 @@
 [BFOfficialWebsite]: https://www.blockfrontmc.com
 [BrEnglish-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [BrEnglish]: README/README.en-gb.md
+[JavaLaunchWrapper]: https://github.com/00ll00/java_launch_wrapper
 [SChinese-for-the-badge]: https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
 [SChinese]: README/README.zh-cn.md
 [TChinese-for-the-badge]: https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge

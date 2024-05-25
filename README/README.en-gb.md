@@ -28,7 +28,7 @@ If you would like to contribute translations to this project, please create a pu
 
 <div align="center">
 
-| | [多语言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
+| | [多语言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
 | :-: | :-: | :-: | :-: |
 | 自定义字体<br>Custom Font | ❌ | ✔️ | ✔️ |
 
