@@ -28,7 +28,7 @@ If you would like to contribute translations to this project, please create a pu
 
 <div align="center">
 
-| | [多语言合一<br>All in One](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one) | [简体中文<br>Simplified Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese) | [繁體中文<br>Traditional Chinese](https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese) |
+| | [多语言合一<br>All in One][RPAllInOne] | [简体中文<br>Simplified Chinese][RPSChinese] | [繁體中文<br>Traditional Chinese][RPTChinese] |
 | :-: | :-: | :-: | :-: |
 | 自定义字体<br>Custom Font | ❌ | ✔️ | ✔️ |
 
@@ -84,6 +84,9 @@ Except where otherwise noted, the contents of this repository is licenced under 
 [BFOfficialWebsite]: https://www.blockfrontmc.com
 [BrEnglish-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [BrEnglish]: README/README.en-gb.md
+[RPAllInOne]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
+[RPSChinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
+[RPTChinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese
 [SChinese-for-the-badge]: https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
 [SChinese]: README/README.zh-cn.md
 [TChinese-for-the-badge]: https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
