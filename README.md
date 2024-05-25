@@ -41,7 +41,7 @@
 ## ⚠️ 注意事项 | Warnings
 
 - 为正常显示模组自定义图标，请将“强制使用 Unicode 字体”设置为“关”。<br>For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
-- PCL II 启动器为修复编码问题，使用了 [Java Launch Wrapper][JavaLaunchWrapper]，导致无法通过反作弊检测。请换用其它启动器。<br>PCL II launcher uses [Java Launch Wrapper][JavaLaunchWrapper] in order to fix coding issues that prevents it from passing anti-cheat detection. Please use a different launcher.
+- PCL II 为修复编码问题，使用了 [Java Launch Wrapper][JavaLaunchWrapper]，导致无法通过反作弊检测。请换用其它启动器。<br>PCL II uses [Java Launch Wrapper][JavaLaunchWrapper] in order to fix coding issues that prevents it from passing anti-cheat detection. Please use a different launcher.
 
 ## 🔗 相关链接 | Related Links
 
