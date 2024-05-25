@@ -17,8 +17,8 @@
 ## ⭐ 功能 | Features
 
 - 為模組提供了 | Provided：
-  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**<br>Traditional Chinese (Taiwan) translation with custom fonts - **100%**
-  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **9%**<br>Traditional Chinese (Hong Kong SAR) translation with custom fonts - **9%**
+  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**<br>Traditional Chinese (Taiwan) translation with custom font - **100%**
+  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **9%**<br>Traditional Chinese (Hong Kong SAR) translation with custom font - **9%**
 - 修正了原文（美式英語）中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
 <center>

@@ -17,9 +17,9 @@
 ## ⭐ 功能 | Features
 
 - 为模组提供了 | Provided：
-  - 带自定义字体的简体中文（中国大陆）翻译 - **100%**<br>Simplified Chinese (Mainland China) translation with custom fonts - **100%**
-  - 带自定义字体的繁体中文（台湾）翻译 - **100%**<br>Traditional Chinese (Taiwan) translation with custom fonts - **100%**
-  - 带自定义字体的繁体中文（香港特别行政区）翻译 - **9%**<br>Traditional Chinese (Hong Kong SAR) translation with custom fonts - **9%**
+  - 简体中文（中国大陆）翻译 - **100%**<br>Simplified Chinese (Mainland China) translation - **100%**
+  - 繁体中文（台湾）翻译 - **100%**<br>Traditional Chinese (Taiwan) translation - **100%**
+  - 繁体中文（香港特别行政区）翻译 - **9%**<br>Traditional Chinese (Hong Kong SAR) translation - **9%**
   - 日语翻译 - **16%**<br>Japanese translation - **16%**
   - 英式英语 - **100%**<br>British English - **100%**
 - 修正了原文（美式英语）中的部分拼写、语法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
