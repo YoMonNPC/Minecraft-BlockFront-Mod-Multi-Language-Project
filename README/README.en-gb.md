@@ -40,7 +40,7 @@ If you would like to contribute translations to this project, please create a pu
 
 ## ⚠️ Warnings
 
-- For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
+- If you get a blank screen during play, try pressing F4 to close the shader. This usually occurs on AMD graphics cards and is a known bug.
 
 ## 🔗 Related Links
 

@@ -40,7 +40,7 @@
 
 ## ⚠️ 注意事項
 
-- 為正常顯示模組自訂圖示，請將「強制使用 Unicode 字型」設定為「關」。
+- 如果遊玩過程中出現黑屏現象，請嘗試按 F4 關閉著色器。此現象通常發生於 AMD 顯示卡，為已知 Bug。<br>If you get a blank screen during play, try pressing F4 to close the shader. This usually occurs on AMD graphics cards and is a known bug.
 
 ## 🔗 相關連結
 

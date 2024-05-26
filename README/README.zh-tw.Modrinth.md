@@ -35,7 +35,7 @@
 
 ## ⚠️ 注意事項 | Warnings
 
-- 為正常顯示模組自訂圖示，請將「強制使用 Unicode 字型」設定為「關」。<br>For mod custom icons to display properly, set "Force Unicode Fonts" to "OFF".
+- 如果遊玩過程中出現黑屏現象，請嘗試按 F4 關閉著色器。此現象通常發生於 AMD 顯示卡，為已知 Bug。
 
 ## 🔗 相關連結 | Related Links
 
