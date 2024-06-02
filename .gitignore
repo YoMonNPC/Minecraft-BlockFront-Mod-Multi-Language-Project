@@ -1,5 +1,6 @@
 .assets_helper
 *.bak
+changelog-template-edit.md
 changelog-template.md
 new.json
 old.json
