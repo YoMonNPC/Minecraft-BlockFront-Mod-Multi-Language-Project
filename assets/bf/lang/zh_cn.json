@@ -68,7 +68,7 @@
     "bf.cloud.notification.dailychallenge.reminder": "你仍有 %s 个挑战等待完成！按 ESC 键以了解更多信息！",
     "bf.cloud.notification.discord.reminder.here": "此处",
     "bf.cloud.notification.discord.reminder.hover": "点击以加入！",
-    "bf.cloud.notification.discord.reminder": "我们的官方 Discord 服务器上还有 %d 名玩家！点击%s立即加入！",
+    "bf.cloud.notification.discord.reminder": "我们的官方 Discord 服务器上还有 %d 名成员！点击%s立即加入！",
     "bf.cloud.notification.drop": "%s 获得了 %s",
     "bf.cloud.notification.friends.add.accepted": "请求被接受！%s 现在是你的好友！",
     "bf.cloud.notification.friends.add.disable": "此用户已拒绝接收好友请求！",
