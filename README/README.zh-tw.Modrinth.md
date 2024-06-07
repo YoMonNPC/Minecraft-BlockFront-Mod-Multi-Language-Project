@@ -8,7 +8,7 @@
 
 如果你想為此專案提供翻譯，請建立 Pull Request<br>If you would like to contribute translations to this project, please create a push request
 
-[![简体中文][SChinese-for-the-badge]][SChinese] [![繁體中文][TChinese-for-the-badge]][TChinese] [![British English][BrEnglish-for-the-badge]][BrEnglish]
+[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![British English][british-english-for-the-badge]][british-english]
 
 </center>
 
@@ -23,7 +23,7 @@
 
 <center>
 
-| | [多語言合一<br>All in One][RPAllInOne] | [简体中文<br>Simplified Chinese][RPSChinese] | [繁體中文<br>Traditional Chinese][RPTChinese] |
+| | [多語言合一<br>All in One][project-all-in-one] | [简体中文<br>Simplified Chinese][project-simplified-chinese] | [繁體中文<br>Traditional Chinese][project-traditional-chinese] |
 | :-: | :-: | :-: | :-: |
 | 自訂字型<br>Custom Font | ❌ | ✔️ | ✔️ |
 
@@ -41,21 +41,21 @@
 
 - 🧑‍💻 模組開發 | Mod Developer → BeohMod
 
-- 🌐 模組官網 | Mod Official Website → [www.BlockFrontMC.com][BFOfficialWebsite]
+- 🌐 模組官網 | Mod Official Website → [www.BlockFrontMC.com][blockfront-official-website]
 
-- 💬 官方 Discord | Official Discord → [Discord.BlockFrontMC.com][BFOfficialDiscord]
+- 💬 官方 Discord | Official Discord → [Discord.BlockFrontMC.com][blockfront-official-discord]
 
-- 📄 官方規則 | Official Rules → [原文 | Original Text][BFOfficialRules-OfficialWebsite]
+- 📄 官方規則 | Official Rules → [原文 | Original Text][blockfront-official-rules]
 
 - 📄 模組介紹 | Mod Introduction → [模組釋出頁 | Mod Release Pages](#-模組釋出頁--mod-release-pages)
 
-- 🌐 自訂比賽教程 | Custom Matchmaking Guide → [官方 Discord 原文 | Official Discord Original Text][BFCustomMatchmakingGuide-DiscordForum]
+- 🌐 自訂比賽教程 | Custom Matchmaking Guide → [官方 Discord 原文 | Official Discord Original Text][blockfront-matchmaking-guide]
 
 ## 🔗 模組釋出頁 | Mod Release Pages
 
-1. Modrinth → [僅模組 | Mod Only][BFModrinth] | [模組包 | Modpack][BFModpackModrinth]
-2. Technic Platform → [模組包 | Modpack][BFModpackTechnic]
-3. CurseForge → [僅模組 | Mod Only][BFCurseForge] | [模組包 | Modpack][BFModpackCurseForge]
+1. Modrinth → [僅模組 | Mod Only][blockfront-mod-modrinth] | [模組包 | Modpack][blockfront-modpack-modrinth]
+2. Technic Platform → [模組包 | Modpack][blockfront-modpack-technic]
+3. CurseForge → [僅模組 | Mod Only][blockfront-mod-curseforge] | [模組包 | Modpack][blockfront-modpack-curseforge]
 
 ## 🤝 開源許可協議 | Licence
 
@@ -67,21 +67,21 @@
 
 ***
 
-[BFCurseForge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
-[BFCustomMatchmakingGuide-DiscordForum]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
-[BFModpackCurseForge]: https://www.curseforge.com/minecraft/modpacks/blockfront-world-war-ii
-[BFModpackModrinth]: https://modrinth.com/modpack/blockfront-mod-pack
-[BFModpackTechnic]: https://www.technicpack.net/modpack/blockfront-official-modpack.1957622
-[BFModrinth]: https://modrinth.com/mod/blockfront
-[BFOfficialDiscord]: https://discord.blockfrontmc.com
-[BFOfficialRules-OfficialWebsite]: https://www.blockfrontmc.com/rules
-[BFOfficialWebsite]: https://www.blockfrontmc.com
-[BrEnglish-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
-[BrEnglish]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.en-gb.md
-[RPAllInOne]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
-[RPSChinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
-[RPTChinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese
-[SChinese-for-the-badge]: https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
-[SChinese]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.zh-cn.md
-[TChinese-for-the-badge]: https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
-[TChinese]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.zh-tw.md
+[blockfront-matchmaking-guide]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
+[blockfront-mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
+[blockfront-mod-modrinth]: https://modrinth.com/mod/blockfront
+[blockfront-modpack-curseforge]: https://www.curseforge.com/minecraft/modpacks/blockfront-world-war-ii
+[blockfront-modpack-modrinth]: https://modrinth.com/modpack/blockfront-mod-pack
+[blockfront-modpack-technic]: https://www.technicpack.net/modpack/blockfront-official-modpack.1957622
+[blockfront-official-discord]: https://discord.blockfrontmc.com
+[blockfront-official-rules]: https://www.blockfrontmc.com/rules
+[blockfront-official-website]: https://www.blockfrontmc.com
+[british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
+[british-english]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.en-gb.md
+[project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
+[project-simplified-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
+[project-traditional-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese
+[simplified-chinese-for-the-badge]: https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
+[simplified-chinese]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.zh-cn.md
+[tradiontal-chinese]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.zh-tw.md
+[traditional-chinese-for-the-badge]: https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge

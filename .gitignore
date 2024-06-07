@@ -1,10 +1,12 @@
 .assets_helper
 *.bak
-changelog-template-edit.md
-changelog-template.md
+changelog-template-edit.html
+changelog-template.html
 new.json
 old.json
 original_text_missing_translations.json
 output
+pack-schinese-modpack.png
 pack-small.png
 pack-with-version-number.cmd
+schinese-modpack.txt
