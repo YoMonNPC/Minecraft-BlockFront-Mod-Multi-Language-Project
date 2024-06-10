@@ -6,4 +6,4 @@ assets\minecraft\font\default.json
 assets\minecraft\lang\zh_cn.json
 LICENSE
 pack-schinese.mcmeta
-pack.png
+pack-schinese.png

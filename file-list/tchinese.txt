@@ -8,4 +8,4 @@ assets\minecraft\lang\zh_hk.json
 assets\minecraft\lang\zh_tw.json
 LICENSE
 pack-tchinese.mcmeta
-pack.png
+pack-tchinese.png

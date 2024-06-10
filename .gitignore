@@ -6,7 +6,8 @@ new.json
 old.json
 original_text_missing_translations.json
 output
-pack-schinese-modpack.png
-pack-small.png
+pack-all-small.png
+pack-schinese-small.png
+pack-tchinese-small.png
 pack-with-version-number.cmd
 schinese-modpack.txt

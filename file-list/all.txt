@@ -11,4 +11,4 @@ assets\minecraft\lang\zh_hk.json
 assets\minecraft\lang\zh_tw.json
 LICENSE
 pack-all.mcmeta
-pack.png
+pack-all.png
