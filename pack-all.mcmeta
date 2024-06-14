@@ -1,7 +1,7 @@
 {
     "pack": {
         "pack_format": 32,
-        "description": "BF Mod Multi-Language Project\nVersion: 26.0 (1.20.6-0.4.0.7a)",
+        "description": "BF Mod Multi-Language Project\nVersion: 27.0 (1.20.6-0.4.0.8a)",
         "supported_formats": {
             "max_inclusive": 32,
             "min_inclusive": 32
