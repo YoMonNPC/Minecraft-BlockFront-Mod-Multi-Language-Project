@@ -1,5 +1,6 @@
 .assets_helper
 *.bak
+anti-document-verification
 changelog-template-edit.html
 changelog-template.html
 new.json
