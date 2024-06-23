@@ -17,8 +17,8 @@
 ## ⭐ 功能 | Features
 
 - 為模組提供了 | Provided：
-  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**（使用 [OpenCC][opencc]進行轉換）<br>Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using OpenCC)
-  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**（使用 [OpenCC][opencc]進行轉換；僅繁體，需要粵語翻譯幫助）<br>Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using OpenCC; Traditional Chinese only, cantonese translation help needed)
+  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**（使用 [OpenCC][opencc] 進行轉換）<br>Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using [OpenCC][opencc])
+  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**（使用 [OpenCC][opencc] 進行轉換；僅繁體，需要粵語翻譯幫助）<br>Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using [OpenCC][opencc]; Traditional Chinese only, Cantonese translation help needed)
 - 修正了原文（美式英語）中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
 <center>

@@ -19,7 +19,7 @@ If you would like to contribute translations to this project, please create a pu
 - Provided:
   - Simplified Chinese (Mainland China) translation with custom font - **100%**
   - Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using OpenCC)
-  - Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using OpenCC; Traditional Chinese only, cantonese translation help needed)
+  - Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using OpenCC; Traditional Chinese only, Cantonese translation help needed)
   - Japanese translation - **16%**
   - British English - **100%**
 - Fixed some spelling and grammar mistakes in the original text (American English, en_us).
