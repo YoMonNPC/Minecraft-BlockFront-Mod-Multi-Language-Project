@@ -876,7 +876,7 @@
     "bf.message.gamemode.ttt.traitor.fart": "呸！我觉得叛徒刚刚放了个屁…",
     "bf.message.gamemode.unpaused": "游戏被 %s 取消暂停",
     "bf.message.gamemode.winning": "%s 胜利过半！",
-    "bf.message.gameplay": "游戏体验",
+    "bf.message.gameplay": "不代表最终品质",
     "bf.message.ignore.tip": "忽略此请求",
     "bf.message.ignore": "忽略",
     "bf.message.ingame.ac.kick": "%s 在投票前断开连接且因逃票而被封禁。",
