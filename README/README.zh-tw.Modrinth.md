@@ -17,8 +17,8 @@
 ## ⭐ 功能 | Features
 
 - 為模組提供了 | Provided：
-  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**<br>Traditional Chinese (Taiwan) translation with custom font - **100%**
-  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **9%**<br>Traditional Chinese (Hong Kong SAR) translation with custom font - **9%**
+  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**（使用 [OpenCC][opencc]進行轉換）<br>Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using OpenCC)
+  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**（使用 [OpenCC][opencc]進行轉換；僅繁體，需要粵語翻譯幫助）<br>Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using OpenCC; Traditional Chinese only, cantonese translation help needed)
 - 修正了原文（美式英語）中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
 <center>
@@ -78,6 +78,7 @@
 [blockfront-official-website]: https://www.blockfrontmc.com
 [british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [british-english]: https://github.com/YoMonNPC/Minecraft-BlockFront-Mod-Multi-Language-Project/blob/main/README/README.en-gb.md
+[opencc]: https://github.com/BYVoid/OpenCC
 [project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
 [project-traditional-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese

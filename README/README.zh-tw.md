@@ -18,8 +18,8 @@
 
 - 為模組提供了：
   - 帶自訂字型的簡體中文（中國大陸）翻譯 - **100%**
-  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**
-  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **9%**
+  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**（使用 [OpenCC][opencc]進行轉換）
+  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**（使用 [OpenCC][opencc]進行轉換；僅繁體，需要粵語翻譯幫助）
   - 日語翻譯 - **16%**
   - 英式英語 - **100%**
 - 修正了原文（美式英語）中的部分拼寫、語法。
@@ -83,6 +83,7 @@
 [blockfront-official-website]: https://www.blockfrontmc.com
 [british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [british-english]: README/README.en-gb.md
+[opencc]: https://github.com/BYVoid/OpenCC
 [project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
 [project-traditional-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese

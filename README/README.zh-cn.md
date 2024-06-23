@@ -18,8 +18,8 @@
 
 - 为模组提供了：
   - 带自定义字体的简体中文（中国大陆）翻译 - **100%**
-  - 带自定义字体的繁体中文（台湾）翻译 - **100%**
-  - 带自定义字体的繁体中文（香港特别行政区）翻译 - **9%**
+  - 带自定义字体的繁体中文（台湾）翻译 - **100%**（使用 [OpenCC][opencc]进行转换）
+  - 带自定义字体的繁体中文（香港特别行政区）翻译 - **100%**（使用 [OpenCC][opencc]进行转换；仅繁体，需要粤语翻译帮助）
   - 日语翻译 - **16%**
   - 英式英语 - **100%**
 - 修正了原文（美式英语）中的部分拼写、语法。
@@ -85,6 +85,7 @@
 [british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [british-english]: README/README.en-gb.md
 [java-launch-wrapper]: https://github.com/00ll00/java_launch_wrapper
+[opencc]: https://github.com/BYVoid/OpenCC
 [project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
 [project-traditional-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese

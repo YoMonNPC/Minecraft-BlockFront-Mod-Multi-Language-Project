@@ -18,8 +18,8 @@ If you would like to contribute translations to this project, please create a pu
 
 - Provided:
   - Simplified Chinese (Mainland China) translation with custom font - **100%**
-  - Traditional Chinese (Taiwan) translation with custom font - **100%**
-  - Traditional Chinese (Hong Kong SAR) translation with custom font - **9%**
+  - Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using OpenCC)
+  - Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using OpenCC; Traditional Chinese only, cantonese translation help needed)
   - Japanese translation - **16%**
   - British English - **100%**
 - Fixed some spelling and grammar mistakes in the original text (American English, en_us).
@@ -84,6 +84,7 @@ Except where otherwise noted, the contents of this repository is licenced under 
 [blockfront-official-website]: https://www.blockfrontmc.com
 [british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
 [british-english]: README/README.en-gb.md
+[opencc]: https://github.com/BYVoid/OpenCC
 [project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
 [project-traditional-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-tchinese
