@@ -21,6 +21,8 @@
   - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**（使用 [OpenCC][opencc] 進行轉換；僅繁體，需要粵語翻譯幫助）<br>Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using [OpenCC][opencc]; Traditional Chinese only, Cantonese translation help needed)
 - 修正了原文（美式英語）中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
+## 🛠️ 使用教程 | Tutorial
+
 <center>
 
 | | [多語言合一<br>All in One][project-all-in-one] | [简体中文<br>Simplified Chinese][project-simplified-chinese] | [繁體中文<br>Traditional Chinese][project-traditional-chinese] |
