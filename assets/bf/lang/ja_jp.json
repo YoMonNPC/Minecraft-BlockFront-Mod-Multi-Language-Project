@@ -156,6 +156,7 @@
     "bf.menu.button.settings.vc.vol.snd": "送信音量（%s）",
     "bf.menu.button.settings.vc": "音声チャット",
     "bf.menu.button.support": "サポート",
+
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.gameplay": "ゲームプレイ体験",
@@ -200,6 +201,7 @@
     "block.bf.sherman_tank": "シャーマン戦車",
     "block.bf.t34_tank_destroyed": "T34（破損）",
     "block.bf.t34_tank": "T34",
+    "block.bf.tiger_ausf_h_tank": "ティーガー H",
     "block.bf.tiger_tank": "ティーガー",
     "block.bf.type96_noshield_army": "九六式二十五粍機銃（盾なし、軍用迷彩）",
     "block.bf.type96_noshield_destroyed_army": "破壊された九六式二十五粍機銃（盾なし、軍用迷彩）",
@@ -217,6 +219,7 @@
     "entity.bf.panzeriv_tank": "IV 号戦車",
     "entity.bf.sherman_tank": "シャーマン戦車",
     "entity.bf.t34_tank": "T34",
+    "entity.bf.tiger_ausf_h_tank": "ティーガー H",
     "entity.bf.type96_gun": "九六式二十五粍機銃",
     "entity.bf.willis_jeep_car": "ウィリー・ジープ",
     "item.bf.chest_flammenwerfer_34": "M34 火炎放射器燃料バックパック",
