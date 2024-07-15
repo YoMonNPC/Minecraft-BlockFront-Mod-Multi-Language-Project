@@ -1,4 +1,11 @@
 {
+    "bf.message.command.game.admin.changemap.success.all": "%s 强制将游戏地图更改为“‰s”！",
+    "bf.message.command.game.admin.nextbot.success.all": "%s 强制生成了一个 Nextbot！",
+    "bf.message.command.game.admin.pause.success.all": "%s 强制暂停了游戏！",
+    "bf.message.command.game.admin.stage.next.success.all": "%s 强制使游戏进入下一阶段！",
+    "bf.message.command.game.admin.stage.reset.success.all": "%s 强制重置了阶段管理器！",
+    "bf.message.command.game.admin.unpause.success.all": "%s 强制取消暂停了游戏！",
+    "bf.message.command.game.admin.vehicle.spawn.success.all": "%s 强制生成了一辆载具！（%s）",
     "bf.challenge.kills.item": "使用 %2$d 获得 %1$d 个击杀（%3$s / %4$s）",
     "bf.challenge.kills": "获得 %d 个击杀（%s / %s）",
     "bf.cloud.auth.error.message": "未能验证 Minecraft / Mojang 会话！（%s）",
