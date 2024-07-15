@@ -618,7 +618,7 @@
     "bf.message.command.assets.test.testing": "正在對資產倉庫執行資產測試⋯",
     "bf.message.command.client.error.usage": "無效用法！（嘗試 /%s %s）",
     "bf.message.command.game.admin.changemap.error.nogamemap": "未能更改地圖或遊戲。指定比賽不存在或正在執行。",
-    "bf.message.command.game.admin.changemap.success.all": "%s 強制將遊戲地圖更改為“‰s”！",
+    "bf.message.command.game.admin.changemap.success.all": "%s 強制將遊戲地圖更改為「%s」！",
     "bf.message.command.game.admin.changemap.success": "成功將比賽更改為 %s。",
     "bf.message.command.game.admin.error.noargs": "未能使用管理員指令！包含參數不足。",
     "bf.message.command.game.admin.error.noperm": "你沒有使用管理員指令的正確權限。",
