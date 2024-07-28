@@ -8,7 +8,7 @@
 
 如果你想为此项目提供翻译，请创建推送请求<br>If you would like to contribute translations to this project, please create a push request
 
-[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![British English][british-english-for-the-badge]][british-english]
+[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
 </div>
 
@@ -82,8 +82,8 @@
 [blockfront-official-discord]: https://discord.blockfrontmc.com
 [blockfront-official-rules]: https://www.blockfrontmc.com/rules
 [blockfront-official-website]: https://www.blockfrontmc.com
-[british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
-[british-english]: README/README.en-gb.md
+[english-for-the-badge]: https://img.shields.io/badge/Language-English-012169?style=for-the-badge
+[english]: README/README.en-gb.md
 [java-launch-wrapper]: https://github.com/00ll00/java_launch_wrapper
 [opencc]: https://github.com/BYVoid/OpenCC
 [project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one

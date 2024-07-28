@@ -8,7 +8,7 @@ If you encounter problems during use, please create an issue
 
 If you would like to contribute translations to this project, please create a push request
 
-[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![British English][british-english-for-the-badge]][british-english]
+[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
 </div>
 
@@ -21,7 +21,7 @@ If you would like to contribute translations to this project, please create a pu
   - Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using [OpenCC][opencc])
   - Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using [OpenCC][opencc]; Traditional Chinese only, Cantonese translation help needed)
   - Japanese translation - **16%**
-  - British English - **100%**
+  - English - **100%**
 - Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
 ## 🛠️ Tutorial
@@ -82,8 +82,8 @@ Except where otherwise noted, the contents of this repository is licenced under 
 [blockfront-official-discord]: https://discord.blockfrontmc.com
 [blockfront-official-rules]: https://www.blockfrontmc.com/rules
 [blockfront-official-website]: https://www.blockfrontmc.com
-[british-english-for-the-badge]: https://img.shields.io/badge/Language-British_English-012169?style=for-the-badge
-[british-english]: README/README.en-gb.md
+[english-for-the-badge]: https://img.shields.io/badge/Language-English-012169?style=for-the-badge
+[english]: README/README.en-gb.md
 [opencc]: https://github.com/BYVoid/OpenCC
 [project-all-in-one]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/blockfront-mod-multi-language-project-schinese
