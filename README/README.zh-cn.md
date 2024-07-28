@@ -6,7 +6,7 @@
 
 如果你在使用中遇到问题，请创建议题
 
-如果你想为此项目提供翻译，请创建推送请求
+如果你想为此项目提供翻译，请创建拉取请求
 
 [![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
