@@ -35,7 +35,7 @@
 
 ## ⚠️ 注意事項 | Warnings
 
-- 如果遊玩過程中出現黑屏現象，請嘗試按 F4 關閉著色器。此現象通常發生於 AMD 顯示卡，為已知 Bug。
+- 如果遊玩過程中出現黑屏現象，請嘗試按 F4 關閉著色器。此現象通常發生於 AMD 顯示卡，為已知 Bug。<br>If you get a blank screen during play, try pressing F4 to close the shader. This usually occurs on AMD graphics cards and is a known bug.
 
 ## 🔗 相關連結 | Related Links
 
