@@ -1,12 +1,10 @@
-# 《方块前线》模组多语言项目<br>BlockFront Mod Multi-Language Project
+# 《方块前线》中文翻译项目<br>BlockFront Mod Chinese Translation Project
 
 <center>
 
-为《Minecraft》模组《方块前线》提供多语言支持<br>Multi-language support for Minecraft mod "BlockFront"
+为《Minecraft》模组《方块前线》提供中文翻译支持<br>Chinese translation support for Minecraft mod "BlockFront"
 
 如果你在使用中遇到问题，请创建议题<br>If you encounter problems during use, please create an issue
-
-如果你想为此项目提供翻译，请创建拉取请求<br>If you would like to contribute translations to this project, please create a push request
 
 [![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
@@ -20,8 +18,6 @@
   - 简体中文（中国大陆）翻译 - **100%**<br>Simplified Chinese (Mainland China) translation - **100%**
   - 繁体中文（台湾）翻译 - **100%**（使用 [OpenCC][opencc] 进行转换）<br>Traditional Chinese (Taiwan) translation - **100%** (Conversion using [OpenCC][opencc])
   - 繁体中文（香港特别行政区）翻译 - **100%**（使用 [OpenCC][opencc] 进行转换；仅繁体，需要粤语翻译帮助）<br>Traditional Chinese (Hong Kong SAR) translation - **100%** (Conversion using [OpenCC][opencc]; Traditional Chinese only, Cantonese translation help needed)
-  - 日语翻译 - **16%**<br>Japanese translation - **16%**
-  - 英式英语 - **100%**<br>British English - **100%**
 - 修正了原文（美式英语）中的部分拼写、语法。<br>Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
 ## 🛠️ 使用教程 | Tutorial

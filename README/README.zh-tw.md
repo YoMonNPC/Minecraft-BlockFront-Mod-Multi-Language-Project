@@ -1,12 +1,10 @@
 ﻿<div align="center">
 
-# 《方塊前線》模組多語言專案<br>BlockFront Mod Multi-Language Project
+# 《方塊前線》中文翻譯專案<br>BlockFront Mod Chinese Translation Project
 
 為《Minecraft》模組《方塊前線》提供多語言支援
 
 如果你在使用中遇到問題，請建立 Issue
-
-如果你想為此專案提供翻譯，請建立 Pull Request
 
 [![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
@@ -20,8 +18,6 @@
   - 帶自訂字型的簡體中文（中國大陸）翻譯 - **100%**
   - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**（使用 [OpenCC][opencc] 進行轉換）
   - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**（使用 [OpenCC][opencc] 進行轉換；僅繁體，需要粵語翻譯幫助）
-  - 日語翻譯 - **16%**
-  - 英式英語 - **100%**
 - 修正了原文（美式英語）中的部分拼寫、語法。
 
 ## 🛠️ 使用教程

@@ -1,12 +1,10 @@
 <div align="center">
 
-# BlockFront Mod Multi-Language Project
+# BlockFront Mod Chinese Translation Project
 
-Multi-language support for Minecraft mod "BlockFront"
+Chinese translation support for Minecraft mod "BlockFront"
 
 If you encounter problems during use, please create an issue
-
-If you would like to contribute translations to this project, please create a push request
 
 [![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
@@ -20,8 +18,6 @@ If you would like to contribute translations to this project, please create a pu
   - Simplified Chinese (Mainland China) translation with custom font - **100%**
   - Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using [OpenCC][opencc])
   - Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using [OpenCC][opencc]; Traditional Chinese only, Cantonese translation help needed)
-  - Japanese translation - **16%**
-  - English - **100%**
 - Fixed some spelling and grammar mistakes in the original text (American English, en_us).
 
 ## 🛠️ Tutorial

@@ -1,12 +1,10 @@
-﻿# 《方塊前線》模組多語言專案<br>BlockFront Mod Multi-Language Project
+﻿# 《方塊前線》中文翻譯專案<br>BlockFront Mod Chinese Translation Project
 
 <center>
 
-為《Minecraft》模組《方塊前線》提供多語言支援<br>Multi-language support for Minecraft mod "BlockFront"
+為《Minecraft》模組《方塊前線》提供多語言支援<br>Chinese translation support for Minecraft mod "BlockFront"
 
 如果你在使用中遇到問題，請建立 Issue<br>If you encounter problems during use, please create an issue
-
-如果你想為此專案提供翻譯，請建立 Pull Request<br>If you would like to contribute translations to this project, please create a push request
 
 [![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 

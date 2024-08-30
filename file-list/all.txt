@@ -1,7 +1,5 @@
 assets\bf\font\bold-all.json
-assets\bf\lang\en_gb.json
 assets\bf\lang\en_us.json
-assets\bf\lang\ja_jp.json
 assets\bf\lang\zh_cn.json
 assets\bf\lang\zh_hk.json
 assets\bf\lang\zh_tw.json
