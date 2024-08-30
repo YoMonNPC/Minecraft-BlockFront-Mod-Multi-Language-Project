@@ -1,6 +1,6 @@
 <div align="center">
 
-# BlockFront Mod Chinese Translation Project
+# BlockFront Mod ChiNese TRanslation Project
 
 Chinese translation support for Minecraft mod "BlockFront"
 

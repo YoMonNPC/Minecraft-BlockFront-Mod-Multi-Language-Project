@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# 《方塊前線》中文翻譯專案<br>BlockFront Mod Chinese Translation Project
+# 《方塊前線》中文翻譯專案<br>BlockFront Mod ChiNese TRanslation Project
 
 為《Minecraft》模組《方塊前線》提供多語言支援
 

@@ -1,4 +1,4 @@
-﻿# 《方塊前線》中文翻譯專案<br>BlockFront Mod Chinese Translation Project
+﻿# 《方塊前線》中文翻譯專案<br>BlockFront Mod ChiNese TRanslation Project
 
 <center>
 
