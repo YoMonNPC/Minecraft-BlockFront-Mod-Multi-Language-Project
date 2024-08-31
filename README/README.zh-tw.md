@@ -1,4 +1,5 @@
-﻿<div align="center">
+﻿
+<div align="center">
 
 # 《方塊前線》中文翻譯專案<br>BlockFront Mod ChiNese TRanslation Project
 

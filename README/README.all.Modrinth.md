@@ -1,6 +1,7 @@
-# 《方块前线》中文翻译项目<br>BlockFront Mod ChiNese TRanslation Project
 
-<center>
+<div align="center">
+
+# 《方块前线》中文翻译项目<br>BlockFront Mod ChiNese TRanslation Project
 
 为《Minecraft》模组《方块前线》提供中文翻译支持<br>Chinese translation support for Minecraft mod "BlockFront"
 
@@ -8,7 +9,7 @@
 
 [![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
 
-</center>
+</div>
 
 ***
 
@@ -22,13 +23,13 @@
 
 ## 🛠️ 使用教程 | Tutorial
 
-<center>
+<div align="center">
 
 | | [多语言合一<br>All in One][project-all-in-one] | [简体中文<br>Simplified Chinese][project-simplified-chinese] | [繁體中文<br>Traditional Chinese][project-traditional-chinese] |
 | :-: | :-: | :-: | :-: |
 | 自定义字体<br>Custom Font | ❌ | ✔️ | ✔️ |
 
-</center>
+</div>
 
 1. 下载你所需要的版本的资源包。<br>Download the version of resource pack you need.
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
@@ -60,11 +61,11 @@
 
 ## 🤝 开源许可协议 | Licence
 
-<center>
+<div align="center">
 
 除非另有说明，本仓库内容采用<br>Except where otherwise noted, the contents of this repository is licenced under a<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
-</center>
+</div>
 
 ***
 
