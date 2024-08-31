@@ -55,8 +55,7 @@ If you encounter problems during use, please create an issue
 ## 🔗 Mod Release Pages
 
 1. Modrinth → [Mod Only][blockfront-mod-modrinth] | [Modpack][blockfront-modpack-modrinth]
-2. Technic Platform → [Modpack][blockfront-modpack-technic]
-3. CurseForge → [Mod Only][blockfront-mod-curseforge] | [Modpack][blockfront-modpack-curseforge]
+2. CurseForge → [Mod Only][blockfront-mod-curseforge] | [Modpack][blockfront-modpack-curseforge]
 
 ## 🤝 Licence
 
@@ -74,7 +73,6 @@ Except where otherwise noted, the contents of this repository is licenced under 
 [blockfront-mod-modrinth]: https://modrinth.com/mod/blockfront
 [blockfront-modpack-curseforge]: https://www.curseforge.com/minecraft/modpacks/blockfront-world-war-ii
 [blockfront-modpack-modrinth]: https://modrinth.com/modpack/blockfront-mod-pack
-[blockfront-modpack-technic]: https://www.technicpack.net/modpack/blockfront-official-modpack.1957622
 [blockfront-official-discord]: https://discord.blockfrontmc.com
 [blockfront-official-rules]: https://www.blockfrontmc.com/rules
 [blockfront-official-website]: https://www.blockfrontmc.com

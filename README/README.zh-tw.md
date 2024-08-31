@@ -55,8 +55,7 @@
 ## 🔗 模組釋出頁
 
 1. Modrinth → [僅模組][blockfront-mod-modrinth] | [模組包][blockfront-modpack-modrinth]
-2. Technic Platform → [模組包][blockfront-modpack-technic]
-3. CurseForge → [僅模組][blockfront-mod-curseforge] | [模組包][blockfront-modpack-curseforge]
+2. CurseForge → [僅模組][blockfront-mod-curseforge] | [模組包][blockfront-modpack-curseforge]
 
 ## 🤝 開源許可協議
 
@@ -73,7 +72,6 @@
 [blockfront-mod-modrinth]: https://modrinth.com/mod/blockfront
 [blockfront-modpack-curseforge]: https://www.curseforge.com/minecraft/modpacks/blockfront-world-war-ii
 [blockfront-modpack-modrinth]: https://modrinth.com/modpack/blockfront-mod-pack
-[blockfront-modpack-technic]: https://www.technicpack.net/modpack/blockfront-official-modpack.1957622
 [blockfront-official-discord]: https://discord.blockfrontmc.com
 [blockfront-official-rules]: https://www.blockfrontmc.com/rules
 [blockfront-official-website]: https://www.blockfrontmc.com
