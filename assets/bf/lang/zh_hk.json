@@ -1266,6 +1266,7 @@
     "bf.screen.credits.role.music.composition": "音樂創作",
     "bf.screen.credits.role.special.thanks": "特別鳴謝與欽佩",
     "bf.screen.credits.role.voice": "配音",
+    "bf.screen.dropdown.clan.invite": "旅隊邀請彈窗",
     "bf.screen.dropdown.conversation": "對話下拉菜單",
     "bf.screen.dropdown.crosshairs": "十字準星下拉菜單",
     "bf.screen.dropdown.friend.accept": "來自 %s 的好友請求確認下拉菜單",
@@ -2110,7 +2111,7 @@
     
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
-    "bf.message.gameplay": "不代表最終品質 | 37.1 ZH-HK",
+    "bf.message.gameplay": "不代表最終品質 | 38.0 ZH-HK",
     "bf.message.release": "正式版",
     "block.bf.150mm_tbtsk_c36_gun": "150mm TbtsK C/36 型艦炮",
     "block.bf.7tp_pelican_destroyed": "7TP 鵜鶘坦克（損壞）",
