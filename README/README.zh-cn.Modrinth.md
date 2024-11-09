@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 《方块前线》中文翻译项目<br>BlockFront Mod ChiNese TRanslation Project
+# 《方块前线》中文翻译项目<br>**B**lock**F**ront **Mod** **C**hi**n**ese **Tr**anslation **Project**
 
 为《Minecraft》模组《方块前线》提供中文翻译支持<br>Chinese translation support for Minecraft mod "BlockFront"
 
@@ -25,7 +25,7 @@
 
 | | [多语言合一<br>All in One][project-all-in-one] | [简体中文<br>Simplified Chinese][project-simplified-chinese] | [繁體中文<br>Traditional Chinese][project-traditional-chinese] |
 | :-: | :-: | :-: | :-: |
-| 自定义字体<br>Custom Font | ❌ | ✔️ | ✔️ |
+| 自定义字体<br>Custom Font | ❌ | [汉仪力量黑简<br>HYLiLiangHei Simplified][hyliliangheij] | [方正综艺<br>FZZongYi][fzzongyib] |
 
 </div>
 
@@ -77,6 +77,8 @@
 [blockfront-official-website]: https://www.blockfrontmc.com
 [english-for-the-badge]: https://img.shields.io/badge/Language-English-012169?style=for-the-badge
 [english]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.en-gb.md
+[fzzongyib]: https://www.foundertype.com/index.php/FontInfo/index/id/178
+[hyliliangheij]: https://www.hanyi.com.cn/productdetail.php?id=589
 [java-launch-wrapper]: https://github.com/00ll00/java_launch_wrapper
 [project-all-in-one]: https://modrinth.com/resourcepack/bfmod-cntr-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
