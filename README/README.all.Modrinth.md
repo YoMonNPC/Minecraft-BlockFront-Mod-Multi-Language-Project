@@ -7,7 +7,7 @@
 
 如果你在使用中遇到问题，请创建议题<br>If you encounter problems during use, please create an issue
 
-[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][tradiontal-chinese] [![English][english-for-the-badge]][english]
+[![简体中文][simplified-chinese-for-the-badge]][simplified-chinese] [![繁體中文][traditional-chinese-for-the-badge]][traditional-chinese] [![English][english-for-the-badge]][english]
 
 </div>
 
@@ -78,7 +78,7 @@
 [blockfront-official-rules]: https://www.blockfrontmc.com/rules
 [blockfront-official-website]: https://www.blockfrontmc.com
 [english-for-the-badge]: https://img.shields.io/badge/Language-English-012169?style=for-the-badge
-[english]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.en-gb.md
+[english]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.en.md
 [fzzongyib]: https://www.foundertype.com/index.php/FontInfo/index/id/178
 [hyliliangheij]: https://www.hanyi.com.cn/productdetail.php?id=589
 [java-launch-wrapper]: https://github.com/00ll00/java_launch_wrapper
@@ -87,6 +87,6 @@
 [project-simplified-chinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
 [project-traditional-chinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
 [simplified-chinese-for-the-badge]: https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
-[simplified-chinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.zh-cn.md
-[tradiontal-chinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.zh-tw.md
+[simplified-chinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.zh-hans.md
+[traditional-chinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README/README.zh-hant.md
 [traditional-chinese-for-the-badge]: https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-ee1620?style=for-the-badge
