@@ -72,7 +72,7 @@
 
 <div align="center">
 
-除非另有說明，本倉庫內容採用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知識共享署名—非商業性使用—相同方式共享 4.0 國際公共許可協議（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
+除非另有說明，本專案採用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知識共享署名—非商業性使用—相同方式共享 4.0 國際公共許可協議（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
 </div>
 

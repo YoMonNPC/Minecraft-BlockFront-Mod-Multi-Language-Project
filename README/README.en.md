@@ -72,7 +72,7 @@ If you encounter problems during use, please create an issue
 
 <div align="center">
 
-Except where otherwise noted, the contents of this repository is licenced under a
+Except where otherwise noted, this project is licenced under a
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0" width="88" height="31" /></a>
 
 </div>

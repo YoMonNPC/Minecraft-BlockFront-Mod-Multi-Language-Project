@@ -73,7 +73,7 @@
 
 <div align="center">
 
-除非另有说明，本仓库内容采用<br>Except where otherwise noted, the contents of this repository is licenced under a<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
+除非另有说明，本项目采用<br>Except where otherwise noted, this project is licenced under a<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
 </div>
 
