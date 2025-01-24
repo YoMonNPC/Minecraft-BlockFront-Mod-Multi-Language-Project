@@ -11,7 +11,7 @@ If you encounter problems during use, please create an issue
 
 </div>
 
-***
+<br>
 
 ## ⭐ Features
 
@@ -20,6 +20,8 @@ If you encounter problems during use, please create an issue
   - Traditional Chinese (Taiwan) translation with custom font - **100%** (Conversion using [OpenCC][opencc])
   - Traditional Chinese (Hong Kong SAR) translation with custom font - **100%** (Conversion using [OpenCC][opencc]; Traditional Chinese only, Cantonese translation help needed)
 - Fixed some spelling and grammar mistakes in the original text (American English, en_us).
+
+<br>
 
 ## 🛠️ Tutorial
 
@@ -35,9 +37,13 @@ If you encounter problems during use, please create an issue
 2. Place the resource pack into the game resource pack folder (resourcepacks).
 3. Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
+<br>
+
 ## ⚠️ Warnings
 
 - If you get a blank screen during play, try pressing F4 to close the shader. This usually occurs on AMD graphics cards and is a known bug.
+
+<br>
 
 ## 🔗 Related Links
 
@@ -53,10 +59,14 @@ If you encounter problems during use, please create an issue
 
 - 🌐 Custom Matchmaking Guide → [Official Discord Original Text][blockfront-matchmaking-guide]
 
+<br>
+
 ## 🔗 Mod Release Pages
 
 1. Modrinth → [Mod Only][blockfront-mod-modrinth] | [Modpack][blockfront-modpack-modrinth]
 2. CurseForge → [Mod Only][blockfront-mod-curseforge] | [Modpack][blockfront-modpack-curseforge]
+
+<br>
 
 ## 🤝 Licence
 
@@ -66,8 +76,6 @@ Except where otherwise noted, the contents of this repository is licenced under 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0" width="88" height="31" /></a>
 
 </div>
-
-***
 
 [blockfront-matchmaking-guide]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
 [blockfront-mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii

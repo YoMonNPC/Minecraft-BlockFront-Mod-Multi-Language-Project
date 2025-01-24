@@ -11,7 +11,7 @@
 
 </div>
 
-***
+<br>
 
 ## ⭐ 功能 | Features
 
@@ -20,6 +20,8 @@
   - 带自定义字体的繁体中文（台湾）翻译 - **100%**（使用 [OpenCC][opencc] 进行转换）
   - 带自定义字体的繁体中文（香港特别行政区）翻译 - **100%**（使用 [OpenCC][opencc] 进行转换；仅繁体，需要粤语翻译帮助）
 - 修正了原文（美式英语）中的部分拼写、语法。
+
+<br>
 
 ## 🛠️ 使用教程
 
@@ -35,10 +37,14 @@
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。
 3. 在游戏中启用资源包，并确保资源包处于模组资源（Mod Resources）上方。
 
+<br>
+
 ## ⚠️ 注意事项
 
 - 如果游玩过程中出现黑屏现象，请尝试按 F4 关闭着色器。此现象通常发生于 AMD 显卡，为已知 Bug。
 - PCL II 为修复编码问题，使用了 [Java Launch Wrapper][java-launch-wrapper]，导致无法通过反作弊检测。请换用其它启动器。
+
+<br>
 
 ## 🔗 相关链接
 
@@ -54,10 +60,14 @@
 
 - 🌐 自定义比赛教程 → [官方 Discord 原文][blockfront-matchmaking-guide]
 
+<br>
+
 ## 🔗 模组发布页
 
 1. Modrinth → [仅模组][blockfront-mod-modrinth] | [整合包][blockfront-modpack-modrinth]
 2. CurseForge → [仅模组][blockfront-mod-curseforge] | [整合包][blockfront-modpack-curseforge]
+
+<br>
 
 ## 🤝 开源许可协议
 
@@ -66,8 +76,6 @@
 除非另有说明，本仓库内容采用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知识共享署名—非商业性使用—相同方式共享 4.0 国际公共许可协议（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
 </div>
-
-***
 
 [blockfront-matchmaking-guide]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
 [blockfront-mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
